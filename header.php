@@ -29,10 +29,16 @@
         <li class="nav-item">
           <a class="nav-link" href="index.php?page=connect">Connection</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?page=article">Article</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?page=listearticle">Liste article</a>
+        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">action</a>
             <a class="dropdown-item" href="#">Another action</a>
             <a class="dropdown-item" href="#">Something else here</a>
             <div class="dropdown-divider"></div>

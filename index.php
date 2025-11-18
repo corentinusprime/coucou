@@ -7,7 +7,6 @@
 <?php
 if($dbh!=null){
 
-
 //vérifie si la clé 'page' existe dans le tableau $_GET
     if(isset($_GET['page'])){
         //récupère la valeur qui correspond à la clé dans $_GET
